@@ -1,6 +1,6 @@
 # CRUD-operations-in-Django
 
-##What is Django ?
+## What is Django ?
 
 ● Django is a web-framework. It is based on python. Web applications can be 
 created smoothly with the help of this framework.
@@ -26,7 +26,7 @@ creation of maintainable and reusable code. In particular, it makes use of the D
 not tied to any particular server platform, and can run your applications on many flavours of Linux, 
 Windows, and Mac OS X.
 
-##Django MVT
+## Django MVT
 
 ● MVT stands for Model View Template.
 ● Django is based on MVT architecture.
